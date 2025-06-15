@@ -1,5 +1,5 @@
 # testrepo
 
-## Editing the file
+This repository now includes a minimal Expo project for the **Promora** MVP located in `promora-app/`.
 
-It's a markdown file in this repository.
+Refer to `promora-app/README.md` for setup instructions.
